@@ -110,7 +110,7 @@ Tunisia.” The Journal of North African Studies 21(2): 283-300.
 Sadiki, Larbi. 2017. Routledge Handbook of the Arab Spring: Rethinking Democratization.
 London: Routledge.
 
-Salti, Ramzi. 2016. Islamic Voices: Music of the Arab Spring. Accessed 3 September 2018.
+Salti, Ramzi. 2016. Islamic Voices: Music of the Arab Spring. Accessed 3 September 2018. 
 	https://live.stanford.edu/blog/september-2016/islamic-voices-music-arab-spring
 
 Scholze, Christian et al. 2011. From the Kasbah, Tunis to Tahrir Square, Cairo and Back:
