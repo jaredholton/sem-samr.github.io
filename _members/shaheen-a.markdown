@@ -1,8 +1,8 @@
 ---
 first-name: "Andrea"
 last-name: "Shaheen"
-affiliation: "University of Texas at El Paso"
+affiliation: "Arizona State University"
 job-title: "Associate Professor"
-email: "alshaheen@utep.edu"
+email: "Andrea.Shaheen@asu.edu"
 interests: "Syria, Lebanon, diaspora, migration, nostalgia, trauma"
 ---
