@@ -68,6 +68,12 @@ Chair: Kendra Salois, American University
 
 ## Saturday, October 30 
 
+**Roundtable: From Social Networking to Community Interventions: Music's Role in Health and Wellbeing During the COVID-19 Pandemic**
+
+Chair: Felicia K Youngblood, Western Washington University
+
+* 10:45 "Music Connectivity and Creativity in Syrian Refugee Camps During the COVID-19 Pandemic" Guilnard Moufarrej, United States Naval Academy
+
 **World Music Pedagogy Workshop**
 
 * 11:15 **“Yalla, Let’s Make Music! Arab Music Activities for Grades 3-8”** Anne Elise Thomas, Visiting Assistant Professor, Sweet Briar College 
