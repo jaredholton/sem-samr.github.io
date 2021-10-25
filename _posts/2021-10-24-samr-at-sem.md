@@ -48,7 +48,7 @@ Chair: Michael Frishkopf, University of Alberta
 
 Chair: Kendra Salois, American University 
 
-* 9:30 **Music and Humanitarianism in Za?atari Refugee Camp** Graihagh Cordwell, University of Oxford 
+* 9:30 **Music and Humanitarianism in Za'atari Refugee Camp** Graihagh Cordwell, University of Oxford 
 
 ### Program session 6: 10:45am - 12:15 pm 
 
