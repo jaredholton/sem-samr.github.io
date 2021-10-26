@@ -23,7 +23,7 @@ This site includes a roster of members who have shared their information. If you
 
 ## SEM Panel Sponsorship
 
-Each year, SAMR is able to organize and sponsor panels submitted for the Society for Ethnomusicology Annual Meeting. While sponsorship does not increase the chances of a paper being accepted, the exchanges and discussions that go into planning have been shown to be helpful according to SEM.
+Each year, SAMR sponsors fully-formed panels or roundtables on or relevant to Arab music for submission to the Society for Ethnomusicology's (SEM) annual meetings, following SEM guidelines. SAMR also networks people with individual proposals to form panels. All submissions undergo internal review that may include suggestions for revision. While sponsorship does not guarantee that a panel will be accepted by SEM, the exchanges and discussions in the review process tend to increase the strength of a panel and its chances of being accepted.
 
 To see the titles of all papers presented at SEM conferences for past years on topics related to Arab music, see the pages listed here: 
 
