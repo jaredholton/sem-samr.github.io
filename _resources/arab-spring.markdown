@@ -1,7 +1,7 @@
 ---
-topic: "Arab Spring"
+topic: "2011 Revolutions"
 topic-no-space: "arab-spring"
-description: "Thank you to Alan Karass for the beginnings of this bibliography on the Arab Spring."
+description: "Thank you to Alan Karass for the beginnings of this bibliography on the 2011 Revolutions."
 resources:
   - title: "Voices of the Arab Spring: Personal Stories of the Arab Revolutions"
     author: "Asaad al-Saleh"
