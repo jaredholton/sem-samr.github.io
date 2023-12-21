@@ -13,7 +13,7 @@ In addition to this page and its annual meeting at the SEM national conference, 
 
 * Outgoing Chair: [Anne Elise Thomas](mailto:athomas@sbc.edu)
 * Presiding Chair: [Andrea Shaheen Espinosa](mailto:andrea.shaheen@asu.edu)
-* Incoming Chair: [David A. McDonald](mailto:davmcdon@indiana.edu)
+* Incoming Chair: [David McDonald](mailto:davmcdon@indiana.edu)
 * Web development and management: [Christopher Witulski](mailto:cwituls@bgsu.edu)
 
 ## Membership
